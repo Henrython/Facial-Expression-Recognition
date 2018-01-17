@@ -1,0 +1,2 @@
+model_checkpoint_path: "F://machine_learning//project//Trained//shallow//shallow"
+all_model_checkpoint_paths: "F://machine_learning//project//Trained//shallow//shallow"
