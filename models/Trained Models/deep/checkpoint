@@ -1,0 +1,2 @@
+model_checkpoint_path: "/output/folder/conv32"
+all_model_checkpoint_paths: "/output/folder/conv32"
