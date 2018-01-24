@@ -1,4 +1,4 @@
-# Facial-Expression-by-Machine-Learning
+# Facial-Expression-via-Machine-Learning
 
 In this project, we built mainly deep learning models to recogenize human facial expressions.
 Models are built based on Tensorflow in python, and encapsulated.
